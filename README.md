@@ -161,37 +161,4 @@ __Properties__
 --------------------------------------------------------------------
 ## Links to the rest of the algorithms
 
-Conversions          |                                          Dynamic Programming   |Ciphers|Miscellaneous|
------------          |----------------------------------------------------------------|-------|-------------|
-[Any Base to Any Base](Conversions/AnyBaseToAnyBase.java)| [Coin Change](DynamicProgramming/CoinChange.java)|[Caesar](ciphers/Caesar.java)|[Heap Sort](Misc/heap_sort.java)|
-[Any Base to Decimal](Conversions/AnyBaseToDecimal.java)|[Egg Dropping](DynamicProgramming/EggDropping.java)|[Columnar Transposition Cipher](ciphers/ColumnarTranspositionCipher.java)|[Palindromic Prime Checker](Misc/PalindromePrime.java)|
-[Binary to Decimal](Conversions/BinaryToDecimal.java)|[Fibonacci](DynamicProgramming/Fibonacci.java)|[RSA](ciphers/RSA.java)|More soon...|
-[Binary to HexaDecimal](Conversions/BinaryToHexadecimal.java)|[Kadane Algorithm](DynamicProgramming/KadaneAlgorithm.java)|more coming soon...|
-[Binary to Octal](Conversions/BinaryToOctal.java)|[Knapsack](DynamicProgramming/Knapsack.java)|
-[Decimal To Any Base](Conversions/DecimalToAnyBase.java)|[Longest Common Subsequence](DynamicProgramming/LongestCommonSubsequence.java)|
-[Decimal To Binary](Conversions/DecimalToBinary.java)|[Longest Increasing Subsequence](DynamicProgramming/LongestIncreasingSubsequence.java)|
-[Decimal To Hexadecimal](Conversions/DecimalToHexaDecimal.java)|[Rod Cutting](DynamicProgramming/RodCutting.java)|
-and much more...|                                                    and more...|
-
-### Data Structures
-Graphs|Heaps|Lists|Queues|
-------|-----|-----|------|
-[BFS](DataStructures/Graphs/BFS.java)|[Empty Heap Exception](DataStructures/Heaps/EmptyHeapException.java)|[Circle Linked List](DataStructures/Lists/CircleLinkedList.java)|[Generic Array List Queue](DataStructures/Queues/GenericArrayListQueue.java)|
-[DFS](DataStructures/Graphs/DFS.java)|[Heap](DataStructures/Heaps/Heap.java)|[Doubly Linked List](DataStructures/Lists/DoublyLinkedList.java)|[Queues](DataStructures/Queues/Queues.java)|
-[Graphs](DataStructures/Graphs/Graphs.java)|[Heap Element](DataStructures/Heaps/HeapElement.java)|[Singly Linked List](DataStructures/Lists/SinglyLinkedList.java)|
-[Kruskals Algorithm](DataStructures/Graphs/KruskalsAlgorithm.java)|[Max Heap](DataStructures/Heaps/MaxHeap.java)|
-[CursorLinkedList](DataStructures/Lists/CursorLinkedList.java)|
-[Matrix Graphs](DataStructures/Graphs/MatrixGraphs.java)|[Min Heap](DataStructures/Heaps/MinHeap.java)|
-[PrimMST](DataStructures/Graphs/PrimMST.java)|
-
-Stacks|Trees|
-------|-----|
-[Node Stack](DataStructures/Stacks/NodeStack.java)|[AVL Tree](DataStructures/Trees/AVLTree.java)|
-[Stack of Linked List](DataStructures/Stacks/StackOfLinkedList.java)|[Binary Tree](DataStructures/Trees/BinaryTree.java)|
-[Array Stack](DataStructures/Stacks/StackArray.java)|And much more...|
-[ArrayList Stack](DataStructures/Stacks/StackArrayList.java)||
-
-* [Bags](DataStructures/Bags/Bag.java)
-* [Buffer](DataStructures/Buffers/CircularBuffer.java)
-* [HashMap](DataStructures/HashMap/Hashing/HashMap.java)
-* [Matrix](DataStructures/Matrix/Matrix.java)
+https://www.studytonight.com/data-structures/search-algorithms
